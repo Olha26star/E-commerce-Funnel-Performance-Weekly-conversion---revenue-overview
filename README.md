@@ -61,7 +61,7 @@ Investigate the Payment → Purchase anomaly on January 25: Examine the accuracy
 Improve the Session Start → Product View and Product View → Add to Cart transitions: Analyze traffic sources, landing pages, product pages, and differences across device categories.<br>
 Investigate the reasons for drop-offs after Add to Cart: Review delivery conditions, cart usability, and the process of proceeding to checkout.
 <br>
-## Task 3. How does purchase conversion performance (Purchase CVR) vary across different device categories?
+## My Task 3. How does purchase conversion performance (Purchase CVR) vary across different device categories?
 
 Analysis Period: November 16, 2020 – January 25, 2021<br>
 To evaluate the traffic distribution, the Traffic Share metric was calculated — the proportion of sessions from each device type relative to the total number of sessions during the analyzed period.<br>
