@@ -115,7 +115,7 @@ https://public.tableau.com/shared/FM7P4N9B5?:display_count=n&:origin=viz_share_l
 SQL Query in BigQuery<br>
 <img width="793" height="446" alt="image" src="https://github.com/user-attachments/assets/7c15472a-412f-475b-bebe-590d14865635" />
 <img width="690" height="606" alt="image" src="https://github.com/user-attachments/assets/a2ff4a99-d138-483a-83b1-d77651cf8127" />
-<img width="793" height="327" alt="image" src="https://github.com/user-attachments/assets/4cffdf32-4500-4d5d-8471-a19f234fc894" 
+<img width="793" height="327" alt="image" src="https://github.com/user-attachments/assets/4cffdf32-4500-4d5d-8471-a19f234fc894" />
   <img width="950" height="445" alt="image" src="https://github.com/user-attachments/assets/3694c3db-38c9-4070-afc3-4f9562f3135c" />
   <img width="797" height="742" alt="image" src="https://github.com/user-attachments/assets/a5050483-1524-4196-b239-4905b7b6c13c" />
   <img width="827" height="817" alt="image" src="https://github.com/user-attachments/assets/5b3da86d-4936-4f57-b014-f5477c8291f9" />
