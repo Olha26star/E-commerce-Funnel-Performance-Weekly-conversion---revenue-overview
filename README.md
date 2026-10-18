@@ -109,9 +109,10 @@ Conclusion: The main business problem is not a lack of visitors, but the low eff
 <br>
 Recommendation: The business should shift its focus from visitor volume to acquisition profitability and purchase completion. The first priority is to investigate the sharp decline in completed purchases at the end of January. If the cause is a payment issue or technical error, resolving it should take priority, as the company is losing customers who are already ready to buy. The next step is to review which audiences Google and Other attract and whether the products, prices, and delivery conditions meet their expectations. Rather than increasing traffic volume, resources should be directed toward segments that generate more revenue relative to their costs, while improving the conditions that prevent customers from completing purchases. The goal is to generate more completed and profitable orders from existing traffic, rather than simply increasing website visits.
 <br>
-Access to Tableau
+Access to Tableau<br>
 https://public.tableau.com/shared/FM7P4N9B5?:display_count=n&:origin=viz_share_link<br>
-SQL Query in BigQuery
+<br>
+SQL Query in BigQuery<br>
 <img width="793" height="446" alt="image" src="https://github.com/user-attachments/assets/7c15472a-412f-475b-bebe-590d14865635" />
 <img width="690" height="606" alt="image" src="https://github.com/user-attachments/assets/a2ff4a99-d138-483a-83b1-d77651cf8127" />
 <img width="793" height="327" alt="image" src="https://github.com/user-attachments/assets/4cffdf32-4500-4d5d-8471-a19f234fc894" 
