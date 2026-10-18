@@ -29,15 +29,12 @@ The largest session losses are concentrated in the first two stages of the funne
 1. Session Start → Product View — Largest Absolute Session Loss
 Of the 305,365 initial sessions, only 63,816 (20.9%) progressed to Product View. A total of 241,549 sessions (79.1%) did not reach the next stage.<br>
 This indicates that a relatively small proportion of sessions progress from visiting the website to interacting with products. Potential reasons include irrelevant traffic, underperforming landing pages, difficult navigation, or technical issues. However, some visitors may not have intended to make a purchase.
-Recommendations:<br>
-1. Analyze acquisition sources to identify channels generating high session volumes but low conversion rates to Product View.
-2. Evaluate landing pages, website navigation, loading speed, and product catalog accessibility.<br>
+Recommendations: 1. Analyze acquisition sources to identify channels generating high session volumes but low conversion rates to Product View.2. Evaluate landing pages, website navigation, loading speed, and product catalog accessibility.<br>
 
 2. Product View → Add to Cart — Significant Losses Among Interested Visitors
 Of the 63,816 sessions that included product views, only 14,891 (23.3%) progressed to Add to Cart. A total of 48,925 sessions (76.7%) did not continue toward purchase.<br>
 This stage is particularly important because users have already demonstrated interest in a product but have not taken the next intended action. Potential reasons include pricing, insufficient product information, stock availability issues, poor user experience, or a mismatch between product offerings and customer expectations.
-Recommendations: 1. Identify product pages with high view volumes but low Add to Cart conversion rates. 2. Evaluate the visibility of the Add to Cart button, pricing information, product availability, and delivery conditions.
-3. Test improvements to product pages and measure their impact on Add to Cart CVR and subsequent funnel stages.<br>
+Recommendations: 1. Identify product pages with high view volumes but low Add to Cart conversion rates. 2. Evaluate the visibility of the Add to Cart button, pricing information, product availability, and delivery conditions. 3. Test improvements to product pages and measure their impact on Add to Cart CVR and subsequent funnel stages.<br>
 <br>
 3. Checkout and Payment Stages — Conversion Losses and a Critical Anomaly<br>
 Analysis of the final e-commerce funnel stages revealed that, out of 5,324 sessions that initiated checkout, only 2,529 (47.5%) completed the full sequence through Purchase.<br>
