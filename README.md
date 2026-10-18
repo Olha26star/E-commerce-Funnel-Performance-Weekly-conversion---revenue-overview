@@ -82,4 +82,47 @@ Recommendations:
 <br>
 Investigate opportunities to improve Purchase CVR on Desktop. Since Desktop generates the highest traffic volume, even a small improvement in conversion could increase the number of purchases.
 
+## Task 4. Which acquisition sources generate high traffic volumes but show low purchase conversion rates (Purchase CVR)?
+1. Comparison of Acquisition Sources
+ <img width="1025" height="327" alt="image" src="https://github.com/user-attachments/assets/970bb986-9965-4f71-81f2-bd6662943341" />
+ The analysis showed that Google and Other have the greatest potential for conversion improvement.<br>
+Google is the largest acquisition source, generating 117,430 sessions (35.85% of total traffic), but its Purchase CVR is approximately 1.00%.<br>
+Other accounts for 89,147 sessions (27.21%), with a nearly identical conversion rate of 1.00%.<br>
+Together, these two sources generate 63.06% of total traffic but have lower conversion rates than Direct (1.13%), Shop (1.86%), and Unknown (2.87%).<br>
+Therefore, Google and Other offer the greatest potential to increase the number of purchases due to their combination of high session volumes and relatively low Purchase CVR.<br>
+<br>
+Recommendations
+1. Google — Priority for Optimization. Break down traffic by channels, campaigns, and landing pages. Identify segments that generate high session volumes but have low conversion rates.<br>
+2. Other — Investigate the Source Breakdown. Determine which channels and campaigns are included in this category. This will help identify specific underperforming segments.<br>
+3. Shop — Investigate the Reasons for Higher Conversion. Analyze user behavior and the purchase journey to identify factors that may explain the Purchase CVR of 1.86%.<br>
+4. Unknown — Verify Attribution. Despite having the highest Purchase CVR (2.87%), the unidentified origin of this traffic limits the ability to evaluate acquisition effectiveness.<br>
+
+## Task 5. How do revenue and purchase conversion rates (Purchase CVR) change over the analyzed period?
+November 16 – December 7 — Growth in Both Metrics. Revenue increased from $14,297 to $57,766 (+304%), while Purchase CVR rose from 0.88% to 1.91%. Revenue grew faster than the number of sessions, indicating improved traffic monetization efficiency.<br>
+December 14 – January 4 — Decline and Divergence Between Traffic and Revenue. Revenue decreased from $46,149 to $9,196, while Purchase CVR fell from 1.60% to 0.52%. January 4 is particularly noteworthy: the number of sessions increased by 41.8% compared to the previous week, but revenue declined by 8.2%. Therefore, an increase in traffic did not guarantee higher sales.<br>
+January 11 – January 25 — Short-Term Recovery Followed by a Sharp Decline. By January 18, revenue had increased to $24,947, while Purchase CVR reached 1.27%, with almost no increase in traffic. However, on January 25, revenue dropped to $4,936 (−80.2%), and the conversion rate fell to 0.37%. This was the main anomaly of the period and requires further investigation.<br>
+<br>
+Key Finding: The trends in Revenue and Purchase CVR demonstrate that financial performance depends not only on traffic volume but also on the ability to convert sessions into purchases. The periods of January 4 and January 18 provide the most valuable analytical insights, as changes in revenue occurred without a corresponding increase in the number of sessions.
+
+## Business Insights — E-commerce Funnel Performance
+Conclusion: The main business problem is not a lack of visitors, but the low effectiveness of converting them into customers. Google and Other generate 63% of traffic, yet their conversion rates are around 1%. The funnel reveals where potential revenue is lost: only 20.9% of sessions reach the product viewing stage, and just 23.3% of those sessions progress to the cart. This suggests a possible mismatch between the expectations of the acquired audience and the website's product offerings. Additionally, at the end of January, the conversion rate after entering payment information dropped from 70.9% to 24.5%, creating another potential barrier to revenue generation. As a result, the business attracts a significant volume of traffic but fails to consistently convert it into financial results.
+<br>
+Recommendation: The business should shift its focus from visitor volume to acquisition profitability and purchase completion. The first priority is to investigate the sharp decline in completed purchases at the end of January. If the cause is a payment issue or technical error, resolving it should take priority, as the company is losing customers who are already ready to buy. The next step is to review which audiences Google and Other attract and whether the products, prices, and delivery conditions meet their expectations. Rather than increasing traffic volume, resources should be directed toward segments that generate more revenue relative to their costs, while improving the conditions that prevent customers from completing purchases. The goal is to generate more completed and profitable orders from existing traffic, rather than simply increasing website visits.
+<br>
+Access to Tableau
+https://public.tableau.com/shared/FM7P4N9B5?:display_count=n&:origin=viz_share_link <br>
+SQL Query in BigQuery
+<img width="793" height="446" alt="image" src="https://github.com/user-attachments/assets/7c15472a-412f-475b-bebe-590d14865635" />
+<img width="690" height="606" alt="image" src="https://github.com/user-attachments/assets/a2ff4a99-d138-483a-83b1-d77651cf8127" />
+<img width="793" height="327" alt="image" src="https://github.com/user-attachments/assets/4cffdf32-4500-4d5d-8471-a19f234fc894" 
+  <img width="950" height="445" alt="image" src="https://github.com/user-attachments/assets/3694c3db-38c9-4070-afc3-4f9562f3135c" />
+  <img width="797" height="742" alt="image" src="https://github.com/user-attachments/assets/a5050483-1524-4196-b239-4905b7b6c13c" />
+  <img width="827" height="817" alt="image" src="https://github.com/user-attachments/assets/5b3da86d-4936-4f57-b014-f5477c8291f9" />
+  <img width="805" height="722" alt="image" src="https://github.com/user-attachments/assets/7a8ddd6d-9e84-4bd6-ab99-f570089badf8" />
+  <img width="768" height="832" alt="image" src="https://github.com/user-attachments/assets/817b89dd-3d2d-4c89-84cd-c48ea9639d5f" />
+  <img width="805" height="422" alt="image" src="https://github.com/user-attachments/assets/b39bda33-305c-4fd3-9afb-c2e868aba03c" />
+  <img width="890" height="582" alt="image" src="https://github.com/user-attachments/assets/84e94ade-79e9-4da6-b5f4-3d4b518710a6" />
+  <img width="731" height="778" alt="image" src="https://github.com/user-attachments/assets/aadbda88-9f55-4114-9924-b1f98cb9ba8f" />
+  <img width="760" height="746" alt="image" src="https://github.com/user-attachments/assets/eb4f05d6-9f62-472e-ad51-b3854f802ada" />
+  <img width="737" height="597" alt="image" src="https://github.com/user-attachments/assets/0072c01e-2eff-4819-8742-fe9b0bcea2a7" />
 
