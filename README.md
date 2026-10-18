@@ -46,7 +46,19 @@ Recommendations: 1. Prioritize validating data completeness for the week of Janu
 Overall Business Priority<br>
 The immediate priority is to identify the cause of the sharp decline in final-stage conversion and address any confirmed barriers preventing users from completing their purchases. At the same time, improving early-stage engagement and product-to-cart conversion represents a significant opportunity to strengthen overall funnel performance and increase potential revenue.<br>
 
-
-
+## Task 2. Which transitions between funnel stages have the lowest conversion rates (Step CVR) and require the highest priority for optimization?
+Analysis of E-commerce Funnel Performance over 11 weeks (November 16, 2020 – January 25, 2021) showed that the lowest conversion rates occur at the early stages of the funnel, where a significant proportion of sessions do not progress to the next action.<br>
+Key problematic transitions:<br>
+1. Session Start → Product View — 20.9%. Only one in five sessions reaches the product viewing stage. The lowest weekly conversion rate was recorded on December 28 — 15.1%, indicating the need to investigate traffic quality and landing page performance.<br>
+2. Product View → Add to Cart — 23.3%. Fewer than a quarter of sessions involving product views progress to the cart. The lowest conversion rate was recorded on November 16 — 8.0%. In addition, after reaching 33.7% on November 30, the rate declined to 17.5% on January 25. This indicates the need to analyze product offerings, pricing, and the usability of product pages.<br>
+3. Add to Cart → Begin Checkout — 35.8%. Only about one-third of sessions in which a product was added to the cart proceed to checkout. The lowest rate was recorded on January 4 — 24.5%. This may indicate barriers preventing users from starting the checkout process.<br>
+4. A critical anomaly was also identified at the final stage, Add Payment Info → Purchase. Despite an overall conversion rate of 66.9%, the rate dropped sharply to 24.5% during the final week (January 25), compared with 70.9% in the previous week. This deviation requires further investigation, as it may be related to technical payment issues or inaccurate tracking of completed purchases.<br>
+<br>
+Recommendations
+<br>
+The following actions are recommended as priorities:<br>
+Investigate the Payment → Purchase anomaly on January 25: Examine the accuracy of purchase event tracking, data completeness, and potential errors in the payment process.<br>
+Improve the Session Start → Product View and Product View → Add to Cart transitions: Analyze traffic sources, landing pages, product pages, and differences across device categories.<br>
+Investigate the reasons for drop-offs after Add to Cart: Review delivery conditions, cart usability, and the process of proceeding to checkout.
 
 
